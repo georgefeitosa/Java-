@@ -31,9 +31,7 @@ Capitalization
 * javadoc -author -d docs *.java
 */
 import javax.swing.JOptionPane;
- 
-
-public class Hello {
+public class FirstDialog {
 
     public static void main(String[] args) {
 
@@ -41,5 +39,4 @@ public class Hello {
                 "Hello there!\nGood to see you");
     }
 }
-
 
